@@ -1,4 +1,4 @@
-### Skol! I'm Anmol Virdi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Skol! I'm Anmol Virdi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 - 🔭 I’m currently working on **Computer vision and AWS.**
 - 🌱 I’m currently learning **Devops and related tools like Docker, Kubernetes, Ansible and Jenkins.**
