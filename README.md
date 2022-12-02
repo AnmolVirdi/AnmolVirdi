@@ -1,6 +1,6 @@
 ### Skol! I'm Anmol Virdi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-- 🔭 I’m currently working on **Computer vision and AWS.**
+- 🔭 I’m currently working at RapidFort Inc.
 - 🌱 I’m currently learning **Devops and related tools like Docker, Kubernetes, Ansible and Jenkins.**
 - 👯 I’m looking to collaborate on projects and contributing to the **software development life cycle.**
 - 💬 Ask me about **Computer vision, CI/CD, SD methodologies, Database management, Cloud and Machine learning.** 
