@@ -22,5 +22,3 @@
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <!---<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>--->
 ---
-
-<img align='left' alt="Anmol's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnmolVirdi&show_icons=true&high_border=true&theme=react">
